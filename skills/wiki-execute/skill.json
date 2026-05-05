@@ -1,0 +1,7 @@
+{
+  "name": "wiki-execute",
+  "version": "1.0.0",
+  "description": "Wiki 增强的迭代执行器 — 执行步骤并将经验沉淀到 Wiki",
+  "author": "daijinru",
+  "tags": ["wiki", "execute", "milestone", "knowledge"]
+}

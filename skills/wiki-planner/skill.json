@@ -1,0 +1,7 @@
+{
+  "name": "wiki-planner",
+  "version": "1.0.0",
+  "description": "Wiki 增强的智能规划器 — 检索已有知识优化任务拆解",
+  "author": "daijinru",
+  "tags": ["wiki", "planner", "milestone", "roadmap"]
+}

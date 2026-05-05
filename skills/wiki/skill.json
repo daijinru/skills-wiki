@@ -1,0 +1,7 @@
+{
+  "name": "wiki",
+  "version": "1.0.0",
+  "description": "本地 Wiki 记忆系统 — CRUD、反向链接索引、知识检索",
+  "author": "daijinru",
+  "tags": ["wiki", "knowledge", "memory", "backlinks"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wiki-replan",
+  "version": "1.0.0",
+  "description": "Wiki 增强的重规划器 — 失败分析、知识检索、局部重写路线图",
+  "author": "daijinru",
+  "tags": ["wiki", "replan", "recovery", "knowledge"]
+}
